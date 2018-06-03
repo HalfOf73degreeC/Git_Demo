@@ -4,5 +4,5 @@ function order(){
     addProduct();
 }
 function addProduct(){
-    add();
+    add(applicationCache.js);
 }
